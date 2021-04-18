@@ -21,7 +21,7 @@ environment:
   sdk: ">=2.7.0 <3.0.0"
 
 dependencies:
-  audioplayers: ^0.18.3
+  audioplayers: ^0.18.0
   flutter_launcher_icons: ^0.9.0
 
 
@@ -57,7 +57,7 @@ flutter:
   assets:
      - imasong/music.jpg
      - imasong/logo2.png
-     - imasong/Ekla holei bujhte pari.mp3
+     - imasong/Ekla.mp3
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
